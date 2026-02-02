@@ -1,0 +1,4 @@
+1. Descărcați datasetul de pe Kaggle.
+2. Asigurați-vă că aveți instalate bibliotecile necesare.
+3. Deschideți și rulați notebook-ul `Fake_News_NLP.ipynb` într-un mediu Jupyter.
+3. Deschideți și rulați notebook-ul `Fake_News_NLP2.ipynb` într-un mediu Jupyter.
